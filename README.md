@@ -1,2 +1,2 @@
-Amer Jusuf - Témalaboratórium és Önálló laboratórium összefoglaló\n
+Amer Jusuf - Témalaboratórium és Önálló laboratórium összefoglaló
 Summary: BlackBoxCNNSummary.pdf
